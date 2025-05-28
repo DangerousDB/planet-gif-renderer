@@ -2,3 +2,4 @@ eigen/eigen
 *.out
 Makefile
 *.gif
+.vscode
